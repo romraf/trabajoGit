@@ -38,6 +38,10 @@ nav {
     height: 180px;
 }
 
+nav a{
+    font-size: 2rem;
+    color:yellow;
+}
 /*le doy un determinado tamaño al logo de mi sitio web*/
 .logo {
     height: 150px;
