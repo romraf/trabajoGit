@@ -30,7 +30,7 @@ header {
 
 /*mi nav bar será de color rojo, utilizo el posicionamiento flex para colocar los elementos de tal forma que el espacio esté repartido*/
 nav {
-    background-color: green;
+    background-color: white;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
