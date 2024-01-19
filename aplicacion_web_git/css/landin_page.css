@@ -27,11 +27,11 @@ section {
 }
 
 .lambo {
-    background: linear-gradient(to bottom, black, gold);
+    background: linear-gradient(to bottom, black, red);
 }
 
 .ferrari {
-    background: linear-gradient(to bottom, gold, red, gray);
+    background: linear-gradient(to bottom, red, gray);
 }
 
 .mercedes {
