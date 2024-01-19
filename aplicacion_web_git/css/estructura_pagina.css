@@ -30,7 +30,7 @@ header {
 
 /*mi nav bar será de color rojo, utilizo el posicionamiento flex para colocar los elementos de tal forma que el espacio esté repartido*/
 nav {
-    background-color: red;
+    background-color: green;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
@@ -38,7 +38,7 @@ nav {
     height: 180px;
 }
 
-/*le doy un determinado tamaño al logo de mi sitio web*/
+/*le doy un determinado tamaño al logo de mi sitio web*
 .logo {
     height: 150px;
     margin-top: 25px;
