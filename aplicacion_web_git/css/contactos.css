@@ -27,6 +27,15 @@ form {
     box-shadow: 0px 10px 30px black;
 }
 
+#boton-Enviar-Datos:hover{
+
+    background: #af4c72;
+    cursor: pointer;
+    filter: brightness(110%);
+    border-radius: 10px;
+}
+
+
 /*Separo los elementos de dentro del formulario con el uso de márgenes*/
 form *:not(button) {
     margin-top: 10px;
@@ -53,13 +62,10 @@ input:hover,textarea:hover {
 
 /*le doy formato al botón de enviar el cual cambiará de color cuando se ponga el cursor sobre él*/
 button {
-    background-color: black;
+    background-color: red;
     border-radius: 5px;
     color: white;
+    border:none;
     padding: 15px;
 }
 
-button:hover {
-    background-color: gold;
-    color: black;
-}
