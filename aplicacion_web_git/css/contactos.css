@@ -9,7 +9,7 @@ main {
 
 /*doy formato a los label al igual que coloco todo en el centro del formulario con el posicionamiento flex al igual que le aplico unas sombras , un ancho y unos márgenes para no ir pegado a la cabecera y fondo*/
 label {
-    font-size: large;
+    font-size: 1.5rem;
     margin: 5px;
     margin-bottom: 7px;
 }
